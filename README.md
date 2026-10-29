@@ -1,7 +1,7 @@
 # Informe de Auditoría de Red Wi-Fi Insegura
 
 **Autor:** Emiliano Fioquetti
-**Fecha:** 25 de octubre de 2026
+**Fecha:** 28 de octubre de 2026
 **Repositorio:** `practica-wifi-segura`
 
 ---
